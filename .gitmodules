@@ -1,0 +1,6 @@
+[submodule "web-dev-challenge"]
+	path = web-dev-challenge
+	url = https://github.com/fffilps/web-dev-challenge
+[submodule "web-dev-challenge-sanity-nextjs"]
+	path = web-dev-challenge-sanity-nextjs
+	url = https://github.com/fffilps/web-dev-challenge-sanity-nextjs
